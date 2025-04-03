@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "title": "TaskSathi | Soluciones Informáticas y Servicios Digitales"
+  },
+  "header": {
+    "services": "Servicios",
+    "about": "Sobre Nosotros",
+    "process": "Proceso",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "subtitle": "Soluciones Informáticas de Nueva Generación",
+    "title": "Transformando Ideas en",
+    "titleHighlight": "Realidad Digital",
+    "description": "Soluciones informáticas completas adaptadas a sus necesidades. Desde desarrollo web hasta ciberseguridad, ofrecemos excelencia con tecnología de vanguardia.",
+    "exploreServices": "Explorar Servicios",
+    "getInTouch": "Contactar"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "titleHighlight": "Digitales",
+    "description": "Soluciones completas para abordar todas sus necesidades digitales con experiencia e innovación.",
+    "viewAll": "Ver Todos los Servicios",
+    "learnMore": "Saber más",
+    "webdev": "Desarrollo Web",
+    "freelance": "Proyectos Freelance",
+    "security": "Consultoría en Ciberseguridad",
+    "report": "Redacción de Informes",
+    "content": "Redacción de Contenido",
+    "seo": "Optimización SEO",
+    "thesis": "Redacción de Tesis",
+    "dissertation": "Redacción de Disertaciones",
+    "presentations": "Presentaciones",
+    "excel": "Microsoft Excel",
+    "copywriting": "Copywriting",
+    "dataEntry": "Entrada de Datos",
+    "mobileApp": "Desarrollo de Aplicaciones Móviles",
+    "cloudServices": "Servicios en la Nube",
+    "schoolProjects": "Proyectos Escolares y Universitarios",
+    "aiMlModel": "Desarrollo de Modelos IA y ML",
+    "other": "Otros Servicios",
+    "others": "Soluciones Personalizadas y Otros Servicios",
+    "cards": {
+      "webdev": {
+        "title": "Desarrollo Web",
+        "description": "Sitios web personalizados construidos con las últimas tecnologías, optimizados para el rendimiento y la experiencia del usuario."
+      },
+      "freelance": {
+        "title": "Proyectos Freelance",
+        "description": "Servicios flexibles basados en proyectos adaptados a sus requisitos y plazos específicos."
+      },
+      "security": {
+        "title": "Consultoría en Ciberseguridad",
+        "description": "Auditorías de seguridad completas y soluciones para proteger sus activos digitales de amenazas."
+      },
+      "report": {
+        "title": "Redacción de Informes",
+        "description": "Documentación técnica profesional e informes empresariales con ideas y análisis claros."
+      },
+      "content": {
+        "title": "Redacción de Contenido",
+        "description": "Contenido atractivo y optimizado para SEO que resuena con su audiencia y genera tráfico."
+      },
+      "seo": {
+        "title": "Optimización SEO",
+        "description": "Optimización estratégica para mejorar su visibilidad en los motores de búsqueda y atraer tráfico de calidad."
+      },
+      "thesis": {
+        "title": "Redacción de Tesis",
+        "description": "Asistencia experta con tesis académicas garantizando una investigación exhaustiva y un formato adecuado."
+      },
+      "dissertation": {
+        "title": "Redacción de Disertaciones",
+        "description": "Apoyo integral para disertaciones con análisis en profundidad y argumentos estructurados."
+      },
+      "presentations": {
+        "title": "Presentaciones",
+        "description": "Presentaciones visualmente impresionantes diseñadas para cautivar a su audiencia."
+      },
+      "excel": {
+        "title": "Microsoft Excel",
+        "description": "Soluciones avanzadas de Excel que incluyen análisis de datos, paneles y hojas de cálculo automatizadas."
+      },
+      "copywriting": {
+        "title": "Copywriting",
+        "description": "Texto persuasivo y convincente que impulsa conversiones y mejora los mensajes de marca."
+      },
+      "dataEntry": {
+        "title": "Entrada de Datos",
+        "description": "Servicios de entrada de datos precisos y eficientes para organizar y mantener su información."
+      },
+      "mobileApp": {
+        "title": "Desarrollo de Aplicaciones Móviles",
+        "description": "Aplicaciones móviles personalizadas para iOS y Android con interfaces intuitivas y funciones potentes."
+      },
+      "cloudServices": {
+        "title": "Servicios en la Nube",
+        "description": "Soluciones en la nube escalables para empresas que buscan optimizar operaciones y reducir costos."
+      },
+      "schoolProjects": {
+        "title": "Proyectos Escolares y Universitarios",
+        "description": "Soluciones de proyectos académicos para estudiantes con orientación experta, desde tareas de codificación hasta proyectos de investigación complejos."
+      },
+      "aiMlModel": {
+        "title": "Desarrollo de Modelos IA y ML",
+        "description": "Aproveche modelos avanzados de IA y ML para optimizar procesos, mejorar la toma de decisiones e impulsar la innovación."
+      },
+      "others": {
+        "title": "Soluciones Personalizadas y Otros Servicios",
+        "description": "Explore una variedad de servicios adicionales adaptados para satisfacer sus necesidades y desafíos comerciales únicos."
+      }
+    }
+  },
+  "about": {
+    "subtitle": "Sobre Nosotros",
+    "title": "Estamos Redefiniendo la Excelencia",
+    "titleHighlight": "Digital",
+    "description1": "TaskSathi Solutions es una empresa líder en servicios informáticos dedicada a proporcionar soluciones digitales innovadoras a empresas de todo el mundo. Con un equipo de profesionales expertos, combinamos experiencia técnica con pensamiento creativo para ofrecer resultados excepcionales.",
+    "description2": "Nuestra misión es capacitar a las empresas a través de la tecnología, permitiéndoles prosperar en la era digital. Priorizamos la calidad, la eficiencia y la satisfacción del cliente en cada proyecto que emprendemos.",
+    "stats": {
+      "projects": "Proyectos Completados",
+      "satisfaction": "Satisfacción del Cliente",
+      "support": "Soporte Disponible"
+    },
+    "contactUs": "Contáctenos"
+  },
+  "process": {
+    "title": "Nuestro",
+    "titleHighlight": "Proceso",
+    "description": "Seguimos un enfoque estructurado para garantizar que cada proyecto se entregue con excelencia y eficiencia.",
+    "steps": {
+      "discovery": {
+        "title": "Descubrimiento",
+        "description": "Comenzamos entendiendo sus requisitos, objetivos y desafíos a través de una consulta en profundidad."
+      },
+      "strategy": {
+        "title": "Estrategia",
+        "description": "Desarrollamos una estrategia integral y una hoja de ruta adaptada a sus necesidades y objetivos específicos."
+      },
+      "implementation": {
+        "title": "Implementación",
+        "description": "Nuestros expertos ejecutan el plan con precisión, manteniéndole informado durante todo el proceso de desarrollo."
+      },
+      "delivery": {
+        "title": "Entrega",
+        "description": "Entregamos la solución final, proporcionamos capacitación si es necesario, y aseguramos su completa satisfacción."
+      }
+    },
+    "guarantee": {
+      "title": "Nuestra Garantía",
+      "description": "Respondemos a todas las solicitudes de servicio dentro de <span class=\"text-secondary font-medium\">3 días</span>, proporcionándole un plan de solución personalizado y un cronograma. Su éxito es nuestra prioridad."
+    }
+  },
+  "contact": {
+    "title": "Ponerse en",
+    "titleHighlight": "Contacto",
+    "description": "¿Tiene un proyecto en mente? Contáctenos y convirtamos su visión en realidad.",
+    "fullName": "Nombre Completo",
+    "fullNamePlaceholder": "Juan Pérez",
+    "email": "Dirección de Correo",
+    "emailPlaceholder": "juan@ejemplo.com",
+    "service": "Servicio Requerido",
+    "servicePlaceholder": "Seleccione un servicio",
+    "message": "Detalles del Proyecto",
+    "messagePlaceholder": "Describa los requisitos de su proyecto...",
+    "submit": "Enviar Solicitud",
+    "submitting": "Enviando...",
+    "confirmation": "Al enviar, recibirá una confirmación por correo electrónico dentro de las 24 horas.",
+    "formError": "Error al enviar el formulario",
+    "formErrorDesc": "Intente nuevamente o contáctenos directamente por correo electrónico.",
+    "info": {
+      "title": "Información de Contacto",
+      "email": "Correo Electrónico",
+      "whatsapp": "WhatsApp",
+      "response": "Tiempo de Respuesta",
+      "responseTime": "Dentro de 3 días hábiles"
+    },
+    "chatWhatsApp": "Chatear en WhatsApp",
+    "whatsappMessage": "Hola, estoy interesado en sus servicios. ¿Puede proporcionarme más información?"
+  },
+  "modal": {
+    "success": "¡Solicitud Enviada!",
+    "successDesc": "Gracias por contactarnos. Hemos recibido su solicitud y responderemos dentro de 3 días hábiles.",
+    "close": "Cerrar"
+  },
+  "footer": {
+    "tagline": "Transformando ideas en realidad digital con soluciones informáticas de vanguardia y servicios.",
+    "services": "Servicios",
+    "quickLinks": "Enlaces Rápidos",
+    "aboutUs": "Sobre Nosotros",
+    "process": "Nuestro Proceso",
+    "contact": "Contacto",
+    "privacy": "Política de Privacidad",
+    "stayUpdated": "Manténgase Actualizado",
+    "subscribeText": "Suscríbase a nuestro boletín para recibir las últimas actualizaciones y ofertas.",
+    "emailPlaceholder": "Su correo electrónico",
+    "rights": "Todos los derechos reservados."
+  },
+  "notFound": {
+    "title": "Página No Encontrada",
+    "message": "La página que está buscando no existe o ha sido movida.",
+    "backHome": "Volver al Inicio"
+  },
+  "language": {
+    "select": "Seleccionar Idioma"
+  }
+}

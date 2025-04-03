@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "title": "TaskSathi | IT Solutions & Digital Services"
+  },
+  "header": {
+    "services": "Services",
+    "about": "About Us",
+    "process": "Process",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Next Generation IT Solutions",
+    "title": "Transforming Ideas Into",
+    "titleHighlight": "Digital Reality",
+    "description": "Comprehensive IT solutions tailored to your needs. From web development to cybersecurity, we deliver excellence with cutting-edge technology.",
+    "exploreServices": "Explore Services",
+    "getInTouch": "Get in Touch"
+  },
+  "services": {
+    "title": "Our Digital",
+    "titleHighlight": "Services",
+    "description": "Comprehensive solutions to address all your digital needs with expertise and innovation.",
+    "viewAll": "View All Services",
+    "learnMore": "Learn more",
+    "schoolProjects": "School-College Projects",
+    "webdev": "Website Development",
+    "freelance": "Freelance Projects",
+    "security": "Cyber Security Consulting",
+    "report": "Report Writing",
+    "content": "Content Writing",
+    "seo": "SEO Optimization",
+    "thesis": "Thesis Writing",
+    "dissertation": "Dissertation Writing",
+    "presentations": "Presentations",
+    "excel": "Microsoft Excel",
+    "copywriting": "Copywriting",
+    "dataEntry": "Data Entry",
+    "mobileApp": "Mobile App Development",
+    "cloudServices": "Cloud Services",
+    "other": "Other Services",
+    "others": "Custom Solutions & Other Services",
+    "cards": {
+      "schoolProjects": {
+        "title": "School-College Projects",
+        "description": "Academic project solutions for students with expert guidance, from coding assignments to complex research projects."
+      },
+      "webdev": {
+        "title": "Website Development",
+        "description": "Custom websites built with the latest technologies, optimized for performance and user experience."
+      },
+      "freelance": {
+        "title": "Freelance Projects",
+        "description": "Flexible project-based services tailored to your specific requirements and timelines."
+      },
+      "security": {
+        "title": "Cyber Security Consulting",
+        "description": "Comprehensive security audits and solutions to protect your digital assets from threats."
+      },
+      "report": {
+        "title": "Report Writing",
+        "description": "Professional technical documentation and business reports with clear insights and analysis."
+      },
+      "content": {
+        "title": "Content Writing",
+        "description": "Engaging and SEO-optimized content that resonates with your audience and drives traffic."
+      },
+      "seo": {
+        "title": "SEO Optimization",
+        "description": "Strategic optimization to improve your visibility in search engines and attract quality traffic."
+      },
+      "thesis": {
+        "title": "Thesis Writing",
+        "description": "Expert assistance with academic theses ensuring thorough research and proper formatting."
+      },
+      "dissertation": {
+        "title": "Dissertation Writing",
+        "description": "Comprehensive support for dissertations with in-depth analysis and structured arguments."
+      },
+      "presentations": {
+        "title": "Presentations",
+        "description": "Visually stunning and effective presentations designed to captivate your audience."
+      },
+      "excel": {
+        "title": "Microsoft Excel",
+        "description": "Advanced Excel solutions including data analysis, dashboards, and automated spreadsheets."
+      },
+      "copywriting": {
+        "title": "Copywriting",
+        "description": "Persuasive and compelling copy that drives conversions and enhances brand messaging."
+      },
+      "dataEntry": {
+        "title": "Data Entry",
+        "description": "Accurate and efficient data entry services to organize and maintain your information."
+      },
+      "mobileApp": {
+        "title": "Mobile App Development",
+        "description": "Custom mobile applications for iOS and Android with intuitive interfaces and powerful features."
+      },
+      "cloudServices": {
+        "title": "Cloud Services",
+        "description": "Scalable cloud solutions for businesses looking to optimize operations and reduce costs."
+      },
+      "aiMlModel": {
+        "title": "AI & ML Model Development",
+        "description": "Leverage advanced AI and ML models to optimize processes, enhance decision-making, and drive innovation."
+      },
+      "others": {
+        "title": "Custom Solutions & Other Services",
+        "description": "Explore a variety of additional services tailored to meet your unique business needs and challenges."
+      }
+    }
+  },
+  "about": {
+    "subtitle": "About Us",
+    "title": "We're Redefining Digital",
+    "titleHighlight": "Excellence",
+    "description1": "TaskSathi Solutions is a leading IT services company dedicated to providing innovative digital solutions to businesses worldwide. With a team of expert professionals, we combine technical expertise with creative thinking to deliver exceptional results.",
+    "description2": "Our mission is to empower businesses through technology, enabling them to thrive in the digital age. We prioritize quality, efficiency, and customer satisfaction in every project we undertake.",
+    "stats": {
+      "projects": "Projects Completed",
+      "satisfaction": "Client Satisfaction",
+      "support": "Support Available"
+    },
+    "contactUs": "Contact Us"
+  },
+  "process": {
+    "title": "Our",
+    "titleHighlight": "Process",
+    "description": "We follow a structured approach to ensure every project is delivered with excellence and efficiency.",
+    "steps": {
+      "discovery": {
+        "title": "Discovery",
+        "description": "We begin by understanding your requirements, goals, and challenges through in-depth consultation."
+      },
+      "strategy": {
+        "title": "Strategy",
+        "description": "We develop a comprehensive strategy and roadmap tailored to your specific needs and objectives."
+      },
+      "implementation": {
+        "title": "Implementation",
+        "description": "Our experts execute the plan with precision, keeping you informed throughout the development process."
+      },
+      "delivery": {
+        "title": "Delivery",
+        "description": "We deliver the final solution, provide training if needed, and ensure your complete satisfaction."
+      }
+    },
+    "guarantee": {
+      "title": "Our Guarantee",
+      "description": "We respond to all service requests within <span class=\"text-secondary font-medium\">3 days</span>, providing you with a tailored solution plan and timeline. Your success is our priority."
+    }
+  },
+  "contact": {
+    "title": "Get in",
+    "titleHighlight": "Touch",
+    "description": "Have a project in mind? Contact us and let's turn your vision into reality.",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "John Doe",
+    "email": "Email Address",
+    "emailPlaceholder": "john@example.com",
+    "service": "Service Required",
+    "servicePlaceholder": "Select a service",
+    "message": "Project Details",
+    "messagePlaceholder": "Describe your project requirements...",
+    "submit": "Submit Request",
+    "submitting": "Submitting...",
+    "confirmation": "By submitting, you'll receive an email confirmation within 24 hours.",
+    "formError": "Form submission failed",
+    "formErrorDesc": "Please try again or contact us directly by email.",
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "response": "Response Time",
+      "responseTime": "Within 3 business days"
+    },
+    "chatWhatsApp": "Chat on WhatsApp",
+    "whatsappMessage": "Hello, I'm interested in your services. Can you provide more information?"
+  },
+  "modal": {
+    "success": "Request Submitted!",
+    "successDesc": "Thank you for contacting us. We've received your request and will respond within 3 business days.",
+    "close": "Close"
+  },
+  "footer": {
+    "tagline": "Transforming ideas into digital reality with cutting-edge IT solutions and services.",
+    "services": "Services",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "process": "Our Process",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "stayUpdated": "Stay Updated",
+    "subscribeText": "Subscribe to our newsletter for the latest updates and offers.",
+    "emailPlaceholder": "Your email",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "The page you are looking for does not exist or has been moved.",
+    "backHome": "Back to Home"
+  },
+  "language": {
+    "select": "Select Language"
+  }
+}
